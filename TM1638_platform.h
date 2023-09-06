@@ -83,9 +83,9 @@ extern "C" {
 /**
  * @brief  Specify IO Pins of ESP32 connected to TM1638
  */
-#define TM1638_CLK_GPIO     GPIO_NUM_0
-#define TM1638_DIO_GPIO     GPIO_NUM_1
-#define TM1638_STB_GPIO     GPIO_NUM_2
+#define TM1638_CLK_GPIO     GPIO_NUM_23
+#define TM1638_DIO_GPIO     GPIO_NUM_22
+#define TM1638_STB_GPIO     GPIO_NUM_1
 #endif
 
 
