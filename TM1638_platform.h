@@ -49,7 +49,7 @@ extern "C" {
  */ 
 // #define TM1638_PLATFORM_AVR          // ATmega32
 // #define TM1638_PLATFORM_STM32        // HAL Functions
-// #define TM1638_PLATFORM_ESP32_IDF    // ESP-IDF
+ #define TM1638_PLATFORM_ESP32_IDF    // ESP-IDF
 
 
 #if defined(TM1638_PLATFORM_AVR)
