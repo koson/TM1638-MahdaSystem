@@ -85,7 +85,7 @@ extern "C" {
  */
 #define TM1638_CLK_GPIO     GPIO_NUM_23
 #define TM1638_DIO_GPIO     GPIO_NUM_22
-#define TM1638_STB_GPIO     GPIO_NUM_1
+#define TM1638_STB_GPIO     GPIO_NUM_21
 #endif
 
 
